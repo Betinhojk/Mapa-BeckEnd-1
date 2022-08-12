@@ -11,21 +11,21 @@
 <style>
 
 .main_tutorial img{
-    width: 30%;
+    width: 20%;
 }
 
 .main_tutorial p{
-    margin: 10px 0;
-	font-size: 1.2em;
+    margin: 0px 0;
+	font-size: 1.6em;
 	text-align: justify;
 }
 
 .main_tutorial h3{
-    font-size: 0.9em;
+    font-size: 1.0em;
 }
 
 .main_tutorial article{
-    flex-basis: 100%;
+    flex-basis: 90%;
     margin-bottom: 10px;
 }
 
@@ -35,9 +35,9 @@
 	<header>
 		<nav>
 			<ul>
-				<li><a href="#" title="Tutoriais" alt="Tutoriais">Tutoriais</a></li>
-				<li><a href="#" title="Artigos" alt="Artigos">Artigos</a></li>
-				<li><a href="#" title="Suporte" alt="Suporte">Suporte</a></li>
+				<li><a href="#" title="Marmitas" alt="Marmitas">Marmitas</a></li>
+				<li><a href="#" title="Pedidos" alt="Pedidos">Pedidos</a></li>
+				<li><a href="#" title="Contato" alt="Contato">Contato</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -92,7 +92,7 @@
         <article class="main_suport">
             <div class="main_suport_content">
                 <header>
-                    <h1>Cadastr-se para receber nossas novidades!!!</h1>
+                    <h1>Cadastre-se para receber nossas novidades!!!</h1>
                     <p>Informe seu nome e e-mail clique em ok!</p>
                 </header>
                 <form>

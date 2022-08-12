@@ -15,9 +15,9 @@
 		<nav>
 			<ul>
 				<!-- //alterei aqui -->
-				<li><a href="#tutorial" title="Tutoriais" alt="Tutoriais">Marmitas</a></li>
-				<li><a href="#" title="Artigos" alt="Artigos">Pedidos</a></li>
-				<li><a href="#" title="Suporte" alt="Suporte">Contato</a></li>
+				<li><a href="#Marmitas" title="Marmitas" alt="Marmitas">Marmitas</a></li>
+				<li><a href="#Pedidos" title="Pedidos" alt="Pedidos">Pedidos</a></li>
+				<li><a href="#Contato" title="Contato" alt="Contato">Contato</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -30,7 +30,7 @@
             <article class="main_cta_content">
                 <div class="main_cta_content_spacer">
                     <header>
-					<h1>Marmitas da Dona Rita trazendo mais Sabor e Alegria para a sua Vida.</h1>
+					<h1>Marmitas da Dona Rita Trazendo mais Sabor e Alegria para a sua Vida.</h1>
                     </header>
                     <p> Conheça a Nossa História</p>
                     <p><a href="#" class="btn">Saiba Mais</a></p>
@@ -69,7 +69,7 @@
         <article class="main_suport">
             <div class="main_suport_content">
                 <header>                    
-                    <h1>Cadastr-se para receber nossas novidades!!!</h1>
+                    <h1>Cadastre-se para receber nossas novidades!!!</h1>
                     <p>Informe seu nome e e-mail clique em ok!</p>
                 </header>
                 <form action="pagina1.php" method="POST">
