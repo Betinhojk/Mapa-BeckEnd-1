@@ -23,9 +23,9 @@
 	</header>
 	
 	<main>
-	<div class="logo">
-	<img src="img/foto1.jpg" alt="logo">
-	</div>
+		<div class="logo">
+			<img src="img/foto10.gif" alt="logo">
+		</div>
 		<div class="main_cta">
             <article class="main_cta_content">
                 <div class="main_cta_content_spacer">

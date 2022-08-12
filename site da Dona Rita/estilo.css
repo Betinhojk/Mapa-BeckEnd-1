@@ -35,15 +35,21 @@ li a:hover{
     background-color: #d36833;
     color: #fff;
 }
-div .img {
-    width: 400px;
-    height: 400px;
+.logo {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    margin: 0px 0px 0px 20px;
+    margin-top: 0px;
+}
+.img {
+    border: 6px #fff;
 }
 
 .main_cta{
     width: 100%;
     background-image: url('./img/foto1.jpg');
-    background-color: #2d3142;
+    background-color: #423d2d;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /*adequa a imagem ao tamanho da caixa*/
@@ -56,17 +62,20 @@ div .img {
 .main_cta .main_cta_content h1{
     font-size: 3em;
     color: rgb(241, 13, 13);
-    border-style: 4px #fff;
     font-weight: 700;
     text-align: center;
+    background-color: antiquewhite;
+    border: 3px solid #fff;
+    border-radius: 20px;
 }
 
 .main_cta .main_cta_content p{
     font-size: 1.875em;
-    color:  #fff;
+    color:  rgb(15, 15, 15);
     font-weight: 300;
     text-align: center;
     margin: 20px 0;
+    font: 40pt;
 }
 
 .main_cta .main_cta_content .btn{
@@ -157,7 +166,7 @@ div .img {
 }
 
 .main_suport_content header h1, .main_suport_content header p{
-    color: #fff;
+    color: rgb(255, 255, 255);
     margin-right: 20px;
     text-align: right;
 }
